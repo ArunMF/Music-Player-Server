@@ -1,0 +1,72 @@
+{
+    "songs": [
+        {
+            "id":1,
+            "name":"Agneepath - Chikni Chameli",
+            "thumbnail":"https://3.bp.blogspot.com/-LLioD2lxpV0/TvyHAHg88ZI/AAAAAAAAMV8/JQChW8WwcY8/s1600/Chikni_Chameli_Katrina_Kaif_Hot_dance_Wallpapers.jpg",
+            "duration":"6.03",
+            "singer":"Ajay Atul & Shreya Ghoshal",
+            "url":"/static/media/Agneepath - Chikni Chameli Extended Video ( 160kbps ).3f915361d373e97f9d26.mp3"
+        },
+        {
+            "id":2,
+            "name":"Arabic Kuthu _ Halamithi Habibo",
+            "thumbnail":"https://bingeddata.s3.amazonaws.com/uploads/2022/02/Is-Arabic-Kuthu-Really-Worth-The-Hype.jpg",
+            "duration":"4.42",
+            "singer":"Anirudh Ravichander",
+            "url":"/static/media/Arabic Kuthu _ Halamithi Habibo -Lyric Video_ Beast_ Thalapathy Vijay_ Sun Pictures_ Nelson_ Anirudh ( 256kbps cbr ).6f4f3fea9b3776810afd.mp3"
+        },
+        {
+            "id":3,
+            "name":"Dippam Dappam _ Bass Boosted",
+            "thumbnail":"https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/e8/0d/bb/e80dbb61-121e-e679-8fb8-4b2c092d21fa/196589119032.jpg/1200x1200bf-60.jpg",
+            "duration":"3.26",
+            "singer":"Vignesh Shivan",
+            "url":"/static/media/Dippam Dappam _ Bass Boosted _ Kaathuvaakula Rendu Kaadhal _Tamil Song _ Vijay Sethupathi, Anirudh ( 256kbps cbr ).6107f9d769a587606c05.mp3"
+        },
+        {
+            "id":4,
+            "name":"Drunk in a Shaappu _ Dhanwin KB _",
+            "thumbnail":"https://i.ytimg.com/vi/E5nIHm1oC3Q/maxresdefault.jpg",
+            "duration":"2.36",
+            "singer":"Dhanwin K B",
+            "url":"/static/media/Drunk in a Shaappu (w_Translated Lyrics) _ Kottu Paattu ft.Nomadic Voice _ Dhanwin KB _  VMK Edits ( 256kbps cbr ).74424df739ec1da82690.mp3"
+        },
+        {
+            "id":5,
+            "name":"Gulaebaghavali _ Prabhu Deva, Hansika _",
+            "thumbnail":"https://i.pinimg.com/originals/c8/d2/2a/c8d22abde66ffc35a6d511635ddbfec1.jpg",
+            "duration":"4.38",
+            "singer":"Anirudh Ravichander",
+            "url":"/static/media/Gulaebaghavali _ Guleba Full Video Song _ 4K _ Kalyaan _ Prabhu Deva, Hansika _ Vivek Mervin ( 256kbps cbr ).6d8cc3f580a1fa3e34fa.mp3"
+        },
+        {
+            "id":6,
+            "name":"Johny Mone Johny _ ABCD _",
+            "thumbnail":"https://www.filmibeat.com/img/2013/06/14-1371195122-abcd-review-2.jpg",
+            "duration":"4.15",
+            "singer":"Dulquer Salmaan & Gopi Sundhar",
+            "url":"/static/media/Johny Mone Johny _ ABCD _ Dulquer Salman _ Gopi Sundar _ Santhosh Varma _ Anna Katharina Valayil ( 256kbps cbr ).d989798eaf183459b3ed.mp3"
+        },
+        {
+            "id":7,
+            "name":"Njanum Varatte _ DJ RUBIX _",
+            "thumbnail":"https://i.ytimg.com/vi/3KE-J07oakc/maxresdefault.jpg",
+            "duration":"4.10",
+            "singer":"DJ RUBIX",
+            "url":"/static/media/Njanum Varatte (Chadhikkatha Chanthu)  _PSY_ HARD_ DJ RUBIX ( 160kbps ).31ea320a1a2a939513f4.mp3"
+        },
+        {
+            "id":8,
+            "name":"OLLULLERU _ Ajagajantharam _",
+            "thumbnail":"https://i.ytimg.com/vi/c_GRkGKzALY/maxresdefault.jpg",
+            "duration":"3.35",
+            "singer":"Justin Varghese",
+            "url":"/static/media/OLLULLERU Justin Varghese ft Praseetha Chalakudy _ Ajagajantharam _ Antony Varghese _ Tinu Pappachan ( 256kbps cbr ).bc587dd463f4265f6dbf.mp3"
+        }
+    ],
+
+    "favourite":[
+
+    ]
+}
